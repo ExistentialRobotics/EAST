@@ -96,10 +96,10 @@ please check out the following paper and more related projects at my [website](h
 * Environment Aware and Safe Tracking (EAST) [[pdf]](https://arxiv.org/pdf/2310.01363.pdf)
 
   ```txt
-    @inproceedings{li_east,
-      author = {Z. Li, Y. Yi, Z. Niu and N. Atanasov},
+    @article{li_east,
+      author = {Li, Zhichao and Yi, Yinzhuang and Niu, Zhuolin and Atanasov, Nikolay},
       title = {EAST: Environment Aware Safe Tracking using Planning and Control Co-Design},
-      journal = {arXiv preprint arXiv:2106.13176},
+      journal = {arXiv preprint arXiv:2310.01363},
       year = {2023}
     }
   ```
